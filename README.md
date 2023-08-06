@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammadHarunaBala
+- 👋 Hi, I’m @muhammadHarunaBala
 - 👀 I’m interested in java, javascript.
 - 🌱  currently Flutter Dev
 - 💞️ I’m looking to collaborate on Flutter project..
